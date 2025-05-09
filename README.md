@@ -56,7 +56,7 @@
     <h1>Mohammed Jemal</h1>
     <p>Personal blogger from Ethiopia</p>
     <div class="socials">
-      <a href="https://facebook.com/" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
+      <a href="https://www.facebook.com/moha.jem1?mibextid=ZbWKwL" target="_blank" title="Facebook"><i class="fab fa-facebook"></i></a>
       <a href="https://linkedin.com/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
       <a href="https://instagram.com/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
       <a href="https://twitter.com/" target="_blank" title="Twitter"><i class="fab fa-twitter"></i></a>
