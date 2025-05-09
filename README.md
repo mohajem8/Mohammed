@@ -52,7 +52,7 @@
 </head>
 <body>
   <div class="profile">
-    <img src="https://via.placeholder.com/150" alt="Mohammed Jemal Photo" />
+    <img src="https://mohajem8.github.io/Mohammed/images/optimized_profile.webp" alt="Mohammed Jemal Photo" />
     <h1>Mohammed Jemal</h1>
     <p>Personal blogger from Ethiopia</p>
     <div class="socials">
